@@ -1,0 +1,11 @@
+[package]
+name = "check_cheating"
+version = "0.1.0"
+authors = ["SyuJyo <jayong93@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rayon = "*"
+sha2 = "*"
+structopt = "*"
+smallbox = "*"
